@@ -689,6 +689,10 @@ h3.my-profession {
     top: 0;
 }
 
+.section-title {
+     color: var(--skin-color);
+}
+.contact { color: var(--skin-color);}
 .contact-title {
     color: var(--skin-color);
     text-align: center;
